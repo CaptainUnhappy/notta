@@ -198,7 +198,6 @@ Thumbs.db
 
 # Model downloads and cache
 .huggingface/
-models/
 *.bin
 *.safetensors
 
